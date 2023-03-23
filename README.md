@@ -1,0 +1,1 @@
+# Objektmudeli_koostamine_elektrijadayhenduse_naitel
