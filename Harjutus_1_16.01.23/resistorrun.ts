@@ -1,4 +1,4 @@
-class Resistor {
+class Resistor { /*k*/
     r: number = 0;
     constructor(r: number) {
         this.r = r;
