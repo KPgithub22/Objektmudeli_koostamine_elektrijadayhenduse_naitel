@@ -56,3 +56,4 @@ getTotalResistance(elements)
 
 r1.setOn(false);
 getTotalResistance(elements)
+/*K*/
